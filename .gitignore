@@ -1,0 +1,19 @@
+# added
+.idea/
+data/
+notebooks/
+scripts/
+data/downloaded/
+logs/
+src/tmp_trainer
+embeddings/
+attentions/
+predictions/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so

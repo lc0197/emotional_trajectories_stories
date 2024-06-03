@@ -1,0 +1,10 @@
+pandas~=2.0.3
+numpy~=1.23.0
+datasets~=2.14.6
+tqdm~=4.64.0
+transformers~=4.35.2
+torch~=2.1.1
+audmetric~=1.1.6
+scipy~=1.10.1
+pysbd~=0.3.4
+requests~=2.28.2
