@@ -1,7 +1,7 @@
 # Modeling Emotional Trajectories in Written Stories Utilizing Transformers and Weakly Supervised Learning
 Repository for the paper *Modeling Emotional Trajectories in Written Stories Utilizing Transformers and Weakly Supervised Learning*, accepted into Findings of ACL 2024. 
 
-ArXiv: [TODO](#)
+ArXiv: [http://arxiv.org/abs/2406.02251](http://arxiv.org/abs/2406.02251)
 
 BibTex (ArXiv Version):
 ```
