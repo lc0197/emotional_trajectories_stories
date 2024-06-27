@@ -3,7 +3,7 @@ Repository for the paper *Modeling Emotional Trajectories in Written Stories Uti
 
 ArXiv: [http://arxiv.org/abs/2406.02251](http://arxiv.org/abs/2406.02251)
 
-BibTex (ArXiv Version):
+BibTex:
 ```
 TODO
 ```
